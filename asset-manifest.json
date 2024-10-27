@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/holler/static/css/main.4e663908.css",
+    "main.js": "/holler/static/js/main.51a06efc.js",
+    "static/js/453.72bce69b.chunk.js": "/holler/static/js/453.72bce69b.chunk.js",
+    "static/media/speaking-head.png": "/holler/static/media/speaking-head.119e6b30c012881b7754.png",
+    "index.html": "/holler/index.html",
+    "main.4e663908.css.map": "/holler/static/css/main.4e663908.css.map",
+    "main.51a06efc.js.map": "/holler/static/js/main.51a06efc.js.map",
+    "453.72bce69b.chunk.js.map": "/holler/static/js/453.72bce69b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e663908.css",
+    "static/js/main.51a06efc.js"
+  ]
+}
